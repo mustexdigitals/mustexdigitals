@@ -11,8 +11,8 @@ A technology-driven digital agency creating modern websites, scalable applicatio
 <br>
 
 [Website](https://mustexdigital.com) • 
-[LinkedIn](#) • 
-[Contact](#)
+[LinkedIn](https://www.linkedin.com/company/mustex-digital/?viewAsMember=true) • 
+[Contact](+92 304 3325478)
 
 </div>
 

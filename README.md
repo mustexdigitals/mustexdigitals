@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_LOGO_URL_HERE" width="140"/>
+<img src="logo.png" width="140"/>
 
 # MUSTEX DIGITAL
 
